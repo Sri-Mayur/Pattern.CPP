@@ -8,10 +8,9 @@ using namespace std;
 //Function for printing the pattern
 void print(int n)
 {
-  int i, j; 
-  \
-  for(i=1;i<=n;i++){
-      for(j=0;j<i;j++){
+
+  for(int i=1;i<=n;i++){
+      for(int j=0;j<i;j++){
           cout<<"* ";
       }
       cout<<endl;
