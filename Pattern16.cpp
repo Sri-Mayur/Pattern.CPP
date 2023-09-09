@@ -1,3 +1,5 @@
+//Alpha Ramp
+
 #include <iostream>
 using namespace std;
 
